@@ -1,7 +1,7 @@
 Kasun Thennakoon's life
 ===============
 
-- 18/09/1900 Born
+- 18/09/1990 Born
 - ~1998 Summer job
 - 03/1996 Built a computer
 - 01/04/1996 Started a [company](http://en.wikipedia.org/wiki/Apple_Inc. "Apple Inc.")
