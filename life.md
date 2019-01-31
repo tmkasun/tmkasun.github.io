@@ -14,3 +14,5 @@ Kasun Thennakoon's life
 - 09/04/2014-11/08/2014 Got selected to Google Summer of Code under [Amahi](http://www.amahi.org) project
 - 05/2014-10/2014 Did internship at [WSO2](http://www.wso2.com)
 - 01/2016-~ Joined [WSO2](http://www.wso2.com) as Software Engineer
+- 03/2017-09/2017 Mentored Google Summer of Code project `Environment Support for API Manager`
+- 01/2018 Won Outstanding WSO2 contributor for the year 2017
